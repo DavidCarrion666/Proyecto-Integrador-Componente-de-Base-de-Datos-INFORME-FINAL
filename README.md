@@ -4,5 +4,3 @@
 - Pablo Costa
 - José Piedra
 - David Carrión
-
-Holis
